@@ -1,5 +1,4 @@
 # Credit-Card-Fraud-Detection-Using-ML
-# Credit Card Fraud Detection using Logistic Regression
 
 This project focuses on detecting fraudulent credit card transactions using Logistic Regression, a simple yet effective machine learning classification algorithm. The dataset used is highly imbalanced, and special care has been taken to handle this issue during preprocessing.
 
